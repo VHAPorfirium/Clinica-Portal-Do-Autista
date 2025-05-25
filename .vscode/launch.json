@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ClinicaPortalDoAutistaApplication<Clinica-Portal-Do-Autista>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.clinicaportaldoautista.ClinicaPortalDoAutistaApplication",
+            "projectName": "Clinica-Portal-Do-Autista",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
